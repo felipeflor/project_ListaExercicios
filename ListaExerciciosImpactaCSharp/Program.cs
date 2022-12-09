@@ -1,4 +1,6 @@
-﻿namespace exercicio5
+﻿//Escreva um algoritmo para ler um valor (do teclado) e escrever(na tela) o seu antecessor.
+
+namespace exercicio5
 {
     public class Program
     {
