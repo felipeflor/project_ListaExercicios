@@ -38,7 +38,7 @@ namespace exercicio8
             }
 
             double porcentNulo, porcentBranco, porcentValido;
-            porcentNulo = (total * nulo) / 100;
+            porcentNulo = ((total * nulo) / 100);
             porcentBranco = (total * branco) / 100;
             porcentValido = (total * valido) / 100;
 
